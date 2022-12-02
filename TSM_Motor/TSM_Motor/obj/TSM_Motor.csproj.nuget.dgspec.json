@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\TSM_Motor\\TSM_Motor\\TSM_Motor.csproj": {}
+  },
+  "projects": {
+    "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\RS232ComPort\\RS232ComPort.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\RS232ComPort\\RS232ComPort.csproj",
+        "projectName": "RS232ComPort",
+        "projectPath": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\RS232ComPort\\RS232ComPort.csproj"
+      },
+      "frameworks": {
+        "net452": {}
+      }
+    },
+    "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\TSM_Motor\\TSM_Motor\\TSM_Motor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\TSM_Motor\\TSM_Motor\\TSM_Motor.csproj",
+        "projectName": "TSM_Motor",
+        "projectPath": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\TSM_Motor\\TSM_Motor\\TSM_Motor.csproj",
+        "packagesPath": "C:\\Users\\hoca.chen\\.nuget\\packages\\",
+        "outputPath": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\TSM_Motor\\TSM_Motor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hoca.chen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\RS232ComPort\\RS232ComPort.csproj": {
+                "projectPath": "D:\\Program_Project\\Git\\HocaChen\\TSM_motor_driver\\RS232ComPort\\RS232ComPort.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\bin\Debug\RS232ComPort.dll
+D:\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\bin\Debug\RS232ComPort.pdb
+D:\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.dll
+D:\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.pdb
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.csproj.AssemblyReference.cache
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.csproj.CoreCompileInputs.cache
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.dll
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\obj\Debug\RS232ComPort.pdb
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\bin\Debug\RS232ComPort.dll
+D:\OwnCloud\MPI_Project\Remote-Motor\SourceCode\RemoteMotorControl\RS232ComPort\bin\Debug\RS232ComPort.pdb
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\bin\Debug\RS232ComPort.dll
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\bin\Debug\RS232ComPort.pdb
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\obj\Debug\RS232ComPort.csproj.AssemblyReference.cache
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\obj\Debug\RS232ComPort.csproj.CoreCompileInputs.cache
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\obj\Debug\RS232ComPort.dll
+D:\Program_Project\Git\HocaChen\TSM_motor_driver\RS232ComPort\obj\Debug\RS232ComPort.pdb
